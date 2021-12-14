@@ -94,7 +94,7 @@
 
       <div class="mr-md-auto text-center text-md-left">
         <div class="copyright">
-           <strong><span><a href="https://campcodes.com" target="_blank">CampCodes</a></span></strong>
+           <strong><span><a href="google.com" target="_blank">DoubleH</a></span></strong>
         </div>
       </div>
     </div>
