@@ -14,6 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bus Ticket Bookings</title>
     <!-- google fonts -->
+    <link rel="system" href="bus_booking/navbar.php">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500&display=swap" rel="stylesheet">
     <!-- Font-awesome -->
@@ -240,7 +241,9 @@
             <center>
             <a href="#pnr-enquiry"><button class="btn btn-primary">Scroll Down <i class="fa fa-arrow-down"></i></button></a>
             </center>
-            
+            <br>
+            <center><a href="bus_booking/index.php"><button class="btn btn-primary">Bus Ticket <i class="fas fa-bus"></i></button></a>
+            </center>
         </div>
     </section>
     <div id="block">
